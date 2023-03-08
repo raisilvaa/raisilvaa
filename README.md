@@ -1,16 +1,22 @@
-### Hi there 👋
+### Oi, meu nome é Raíza
+Estudande autodidata em Análise de Dados.
 
-<!--
-**raisilvaa/raisilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌴  Apaixonada por **natureza**
+- 🤓 Buscando sempre aprender e aprimorar meus conhecimentos
+- 🌈	LGBTQI+
+- 🎯 Atualmente mais focada em: Migração de carreira 
+- Aprimorando conhecimentos em:
 
-Here are some ideas to get you started:
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ________________________________________________________________________________________________________
+ 
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ - 📫 Como entrar em contato comigo
+   
+   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+   ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
