@@ -4,7 +4,7 @@ Estudande autodidata em Análise de Dados.
 - 🌴  Apaixonada por **natureza**
 - 🤓 Buscando sempre aprender e aprimorar meus conhecimentos
 - 🌈	LGBTQI+
-- 🎯 Atualmente mais focada em: Migração de carreira 
+- 🎯 Atualmente focada em: Migração de carreira 
 - Aprimorando conhecimentos em:
 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
