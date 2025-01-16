@@ -1,7 +1,7 @@
 ### Oi, meu nome é Raíza
 Estudande autodidata em Análise de Dados.
 
-- 🌴  Apaixonada por **natureza**
+- 🌴  Apaixonada pela **natureza**
 - 🤓 Buscando sempre aprender e aprimorar meus conhecimentos
 - 🌈	LGBTQI+
 - 🎯 Atualmente focada em: Migração de carreira 
